@@ -1,0 +1,11 @@
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[user]
+	name = taep96
+	email = 64481039+taep96@users.noreply.github.com
+	signingkey = 8DDB1FD8A4B1BEC5
+[init]
+	defaultBranch = main
+[commit]
+	gpgsign = true

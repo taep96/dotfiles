@@ -1,0 +1,19 @@
+[global]
+    background = "#282828"
+    foreground = "#ebdbb2"
+    frame_color = "#4c443e"
+
+    corner_radius = 3
+
+    mouse_left_click = do_action, close_current
+    mouse_middle_click = close_all
+    mouse_right_click = close_current
+
+    offset = 10x34
+    origin = top-right
+
+[urgency_critical]
+    background = "#fb4934"
+    foreground = "#ffffff"
+    frame_color = "#cc241d"
+
