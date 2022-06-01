@@ -1,6 +1,7 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
-SETUVAR --export QT_QPA_PLATFORMTHEME:qt6ct
+SETUVAR EDITOR:nvim
+SETUVAR --export QT_QPA_PLATFORMTHEME:qt5ct
 SETUVAR __fish_initialized:3400
 SETUVAR fish_color_autosuggestion:707A8C
 SETUVAR fish_color_cancel:\x2d\x2dreverse
